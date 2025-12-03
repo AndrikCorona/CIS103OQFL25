@@ -1,0 +1,11 @@
+first_name=input("Enter First Name: ")
+last_name=input("Enter Last Name: ")
+address=input("Enter Address: ")
+city=input("Enter City: ")
+state=input("Enter State: ")
+postal_code=input("Enter Postal Code:")
+
+print()
+print(first_name + "" + last_name)
+print(address)
+print(city + "," + state + " " + postal_code)
